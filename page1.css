@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.logo {
+  /* border: solid; */
+  height: 15vh;
+  width: 6vw;
+  background-image: url("./grim-reaper-death-sign-clip-art-illustration-vector-removebg-preview.png");
+
+  background-size: cover;
+  /* box-shadow: 2px 2px black; */
+
+  /* background-repeat: no-repeat; */
+}
+
+.k {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 20vw;
+  height: 15vh;
+  /* border: solid;  */
+}
+.L {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 15vh;
+  width: 100vw;
+  /* border: solid; */
+}
+.nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 15vh;
+  width: 80vw;
+  /* border: solid; */
+}
+.n {
+  /* border: solid; */
+  height: 15vh;
+  width: 20vh;
+  /* margin-left: -5px; */
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+.abc {
+  /* border: solid; */
+  font-size: 27px;
+  font-weight: bolder;
+  text-decoration: none;
+  color: rgb(180, 226, 11);
+  font-family: "Franklin Gothic Medium";
+  text-shadow: 5px 5px black;
+}
+.P {
+  text-decoration: none;
+  color: rgb(235, 37, 37);
+  font-family: Monospace;
+  font-weight: bolder;
+  font-size: 20px;
+  text-shadow: 2px 2px black;
+}
+.abc:hover {
+  color: red;
+}
+.P:hover {
+  color: green;
+}
+
+.lekha{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  /* border: solid; */
+  height: 40vh;
+  width: 100%;
+  font-weight: bolder;
+  color: white;
+  margin-bottom: 25px;
+
+}
+
+.ul{
+  text-decoration: none;
+  color: rgb(224, 217, 217);
+  
+}
+.hedar{
+  background-image: url(./mou.png);
+  background-size: cover;
+  width: 100vw;
+  height: 55vh;
+  
+}
+
